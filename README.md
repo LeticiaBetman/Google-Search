@@ -1,7 +1,7 @@
 # Google-Search
 
 📌 **Sobre o Projeto**  
-Este projeto é um clone da página de pesquisa do Google, desenvolvido com HTML e CSS para fins educacionais e de prática em desenvolvimento web.
+Este projeto é um clone da página de pesquisa do Google, desenvolvido com HTML5 e CSS3 para fins educacionais e de prática em desenvolvimento web.
 
 ---
 
@@ -34,7 +34,7 @@ O CSS foi utilizado para recriar o design da página de pesquisa do Google, incl
 📷 **Captura de Tela**
 
 💻 **Versão Web**  
-![Versão Web](Travel_planner/img/screenshot_web.png)
+![Versão Web](Projeto_Pesquisa_Google/img/screenshot_web_google_search.png)
 
 ---
 
@@ -43,5 +43,5 @@ O CSS foi utilizado para recriar o design da página de pesquisa do Google, incl
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/travel-planner.git
+   git clone https://github.com/LeticiaBetman/travel-planner.git
 
