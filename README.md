@@ -45,5 +45,5 @@ O CSS foi utilizado para recriar o design da página de pesquisa do Google, incl
    ```bash
    git clone https://github.com/seu-usuario/google-search-clone.git
 
-2. Abra o arquivo index.html no seu navegador.
+2. Abra o arquivo `index.html` no seu navegador.
 
