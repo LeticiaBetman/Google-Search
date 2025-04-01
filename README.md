@@ -1,6 +1,7 @@
 # Google-Search
 
-📌 **Sobre o Projeto**  
+📌 **Sobre o Projeto** 
+
 Este projeto é um clone da página de pesquisa do Google, desenvolvido com HTML5 e CSS3 para fins educacionais e de prática em desenvolvimento web.
 
 ---
