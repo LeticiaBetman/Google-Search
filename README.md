@@ -31,9 +31,7 @@ O CSS foi utilizado para recriar o design da página de pesquisa do Google, incl
 
 ---
 
-📷 **Captura de Tela**
-
-💻 **Versão Web**  
+📷 **Captura de Tela** 
 ![Versão Web](Projeto_Pesquisa_Google/img/screenshot_web_google_search.png)
 
 ---
